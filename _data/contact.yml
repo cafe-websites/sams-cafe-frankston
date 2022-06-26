@@ -1,0 +1,12 @@
+location:
+  address: 49 Foot St, Frankston, VIC, 3199
+  google_maps: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d200783.22799798026!2d144.867038925!3d-38.1579094!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad6752e179ba72d%3A0xdf15a55001fd8059!2sSam&#39;s%20Cafe!5e0!3m2!1sen!2sau!4v1656231763006!5m2!1sen!2sau
+  locale: en-AU
+
+socials:
+  - platform: Facebook
+    link: https://www.facebook.com/49samscafe/photos/?ref=page_internal
+  - platform: email
+    link: mailto:samscafefrankston@gmail.com
+  - platform: phone
+    link: tel:0418335471

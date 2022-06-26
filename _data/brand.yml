@@ -1,0 +1,5 @@
+name: Sam's Cafe Frankston
+description: The best coffee in the Mornington peninsula, with delicious and fresh food, and quality service.
+color_profile: light  # options: light, dark, pink
+font_profile: futuristic  # options: futuristic, rustic, cursive, formal
+accent_color: "#910b0b"
